@@ -11,13 +11,26 @@ strong {
 
 /*dot represents class*/
 .writer {
-    font-size: 10;
-    font-style: italic;
-    color: #567189
+  font-size: 10;
+  font-style: italic;
+  color: #567189;
 }
 
-.content{
-    font-style: normal;
-    color: #13005A;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+.content {
+  font-style: normal;
+  color: #13005a;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.navbar {
+  color: blue;
+}
+
+.nav-item {
+  padding: 5px;
+}
+
+.input-group {
+  margin: 5px;
+  padding: 2px;
 }
